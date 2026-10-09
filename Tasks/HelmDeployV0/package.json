@@ -16,7 +16,7 @@
     "azure-pipelines-tasks-securefiles-common": "^2.263.0",
     "azure-pipelines-tasks-utility-common": "3.267.0",
     "del": "2.2.0",
-    "moment": "^2.29.4"
+    "moment": "^2.31.0"
   },
   "devDependencies": {
     "typescript": "5.1.6"

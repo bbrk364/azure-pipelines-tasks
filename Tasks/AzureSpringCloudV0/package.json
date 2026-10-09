@@ -32,7 +32,7 @@
     "azure-pipelines-tasks-azure-arm-rest": "^3.254.0",
     "azure-pipelines-tasks-webdeployment-common": "^4.265.0",
     "azure-pipelines-task-lib": "4.11.0",
-    "moment": "^2.29.4",
+    "moment": "^2.31.0",
     "nock": "^10.0.6",
     "q": "1.4.1",
     "tar": "^6.1.11",
